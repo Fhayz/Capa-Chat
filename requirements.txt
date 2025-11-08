@@ -1,0 +1,14 @@
+# requirements.txt
+
+# Natural Language Processing (NLP)
+nltk           # Basic NLP tasks: tokenization, stemming, stopwords
+# spacy       # Uncomment for advanced NLP (optional for future)
+
+# For making HTTP requests (for API integrations)
+requests
+
+# Optional: For simple sentiment analysis/text processing
+textblob
+
+# Unit testing
+pytest
